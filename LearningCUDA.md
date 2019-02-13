@@ -1,0 +1,11 @@
+#Mark Harris Posts
+Part 1: https://devblogs.nvidia.com/easy-introduction-cuda-c-and-c/
+Part 2: https://devblogs.nvidia.com/how-implement-performance-metrics-cuda-cc/
+Part 3: https://devblogs.nvidia.com/how-query-device-properties-and-handle-errors-cuda-cc/
+Part 4: https://devblogs.nvidia.com/how-optimize-data-transfers-cuda-cc/
+Part 5: https://devblogs.nvidia.com/how-overlap-data-transfers-cuda-cc/
+Part 6: https://devblogs.nvidia.com/how-access-global-memory-efficiently-cuda-c-kernels/
+Part 7: https://devblogs.nvidia.com/using-shared-memory-cuda-cc/
+Part 8: https://devblogs.nvidia.com/efficient-matrix-transpose-cuda-cc/
+Part 9: https://devblogs.nvidia.com/finite-difference-methods-cuda-cc-part-1/
+Part 10: https://devblogs.nvidia.com/finite-difference-methods-cuda-c-part-2/
